@@ -62,7 +62,7 @@ export default defineConfig({
         ],
       },
       manifest: {
-        id: 'com.tarefas-pwa',
+        id: 'com.tercofacil-pwa',
         name: 'TercoFacil',
         short_name: 'TercoFacil',
         description: 'Aplicativo PWA para ajudar a rezar',
